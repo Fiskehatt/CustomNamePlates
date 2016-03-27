@@ -258,11 +258,11 @@ function CustomNameplates_OnUpdate()
 			Glow:Hide()
 			
 			Name:SetFontObject(GameFontNormal)
-			Name:SetFont("Interface\\AddOns\\CustomNameplates\\Fonts\\Sentinel-Bold.otf",11)
+			Name:SetFont("Interface\\AddOns\\CustomNameplates\\Fonts\\Ubuntu-C.ttf",11)
 			Name:SetPoint("BOTTOM", namePlate, "CENTER", 0, -4)
 			
 			Level:SetFontObject(GameFontNormal)
-			Level:SetFont("Interface\\AddOns\\CustomNameplates\\Fonts\\Sentinel-Bold.otf",10) --
+			Level:SetFont("Interface\\AddOns\\CustomNameplates\\Fonts\\Helvetica_Neue_LT_Com_77_Bold_Condensed.ttf",10) --
 			Level:SetPoint("TOPLEFT", Name, "RIGHT", 3, 4)
 
 			HealthBar:Show()
