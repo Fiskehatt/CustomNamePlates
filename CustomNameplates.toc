@@ -1,5 +1,6 @@
 ## Title: CustomNameplates
 ## Interface: 11200
-## Version: 1.0b
+## Version: 1.1
+## Notes: Gives better looks for nameplates and show debuffs on them. Improved performance. Settings in lua file.
 ## SavedVariables: CNP_Data
 CustomNameplates.xml
