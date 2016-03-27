@@ -32,11 +32,9 @@ local Icons = {
 -- All names should be in full lower case. All checks against the list should be done with string.lower();
 local blacklist = {
 	["exactName"] = {
-		["fire nova totem"] = true,
 	},
 	["containsName"] = {
 		-- There is a space before totem so that players with "totem" in the name is not included.
-		" totem"
 	}
 }
 
