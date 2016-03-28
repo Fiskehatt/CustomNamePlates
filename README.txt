@@ -1,4 +1,4 @@
-# CustomNameplates
+CustomNameplates
 
 CustomNameplates with better performance.
 
