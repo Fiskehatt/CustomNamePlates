@@ -6,4 +6,4 @@ All option editing must be done directly to the lua code, no slash commands exis
 
 Original release: http://www.wow-one.com/forum/topic/30897-its-here-a-nameplate-addon/
 
-Edited by Coax.
+Edited by Coax - Nostalrius PvP
