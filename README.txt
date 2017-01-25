@@ -7,3 +7,5 @@ All settings are in the lua code, no slash commands exist.
 Original release: http://www.wow-one.com/forum/topic/30897-its-here-a-nameplate-addon/
 
 Edited by Coax - Nostalrius PvP
+
+NOTE: A more effective version can be found at: https://github.com/Road-block/CustomNameplates/
